@@ -1,0 +1,9 @@
+[submodule "packages/macramejs/admin"]
+	path = packages/macramejs/admin
+	url = git@github.com:macramejs/admin.git
+[submodule "packages/macramejs/macrame"]
+	path = packages/macramejs/macrame
+	url = git@github.com:macramejs/macrame.git
+[submodule "packages/macramejs/macrame-laravel"]
+	path = packages/macramejs/macrame-laravel
+	url = git@github.com:macramejs/macrame-laravel.git
